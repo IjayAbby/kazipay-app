@@ -6,6 +6,9 @@
 
 **KaziPay** is a decentralized payment platform that revolutionizes freelance transactions through milestone-based escrow contracts and intelligent trust scoring - all built on the XRP Ledger. Designed for the Global South, KaziPay bridges the gap between international clients and emerging-market talent with secure, low-fee payments.
 
+### Live Demo link.
+[Live Demo](https://drive.google.com/file/d/1m95DkfzZryQTlVX50YrMI-3vJ6KU16kD/view?usp=drive_link)
+
 ## 🌟 Key Features
 
 - 🔐 **Secure Wallet Integration** - Connect XRP wallets with robust authentication
