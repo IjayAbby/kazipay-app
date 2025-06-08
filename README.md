@@ -188,7 +188,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- **Live Demo**: Coming Soon 🚀
+- **Presentation**: [Presentation](https://www.canva.com/design/DAGps2xsM_U/mOo7CE310YnrI6jOLIp8fw/view?utm_content=DAGps2xsM_U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h697696d234)
 - **Documentation**: [Wiki](../../wiki)
 - **Issues**: [GitHub Issues](../../issues)
 - **Discussions**: [GitHub Discussions](../../discussions)
